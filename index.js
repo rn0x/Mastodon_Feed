@@ -34,6 +34,4 @@ await EventFeed(async e => {
         await client.Publish(text).catch(e => console.log(e));
     }
 
-    console.log(text);
-
 });
