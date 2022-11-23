@@ -1,7 +1,7 @@
 # Mastodon_Feed
 
 - Publish to Mastodon through ATOM and RSS feeds
-- Automatic translation of feeding ATOM and RSS  into Arabic
+- Automatic translation of feeding into Arabic
 
 Example [@Arfeed](https://bassam.social/@Arfeed)
 
