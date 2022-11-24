@@ -14,8 +14,8 @@ await EventFeed(async e => {
     let description = e?.description;
     let link = e?.link;
     let published = e?.published;
-    let text = `${title}\n\n\n`
-    text += `${description}\n\n`
+    let text = `العنوان: ${title}.\n\n\n`
+    text += `الموجز: ${description}\n\n`
     text += link
 
     if (title && description && link && published && e?.image) {
